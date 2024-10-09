@@ -21,3 +21,40 @@
   border-radius: 10px;
   cursor: pointer;
 }
+.categories h1{
+  color: #fff;
+ }
+.categories img{
+  width: 100px;
+}
+.cat1, .cat2, .cat3{
+  padding: 10px 30px;  
+  border-radius: 15px;
+}
+.cat1{
+  background-image: linear-gradient(to left, rgb(250, 197, 82) 0%,rgb(220, 150, 0) 100%);
+}
+.cat2{
+  background-image: linear-gradient(to left, rgb(244, 33, 124) 0%,#ff135f 100%);
+}
+.cat3{
+  background-image: linear-gradient(to left, rgb(34, 180, 248) 0%,rgb(1, 84, 153) 100%);
+
+}
+
+.card{
+  border: none;
+  box-shadow: 5px 5px 10px lightgrey;
+  border-radius: 10px;
+}
+.card-footer{
+  background-color: #fff;
+  border-top: none ;
+}
+#subscribe{
+  height: 300px;
+}
+footer{
+  text-align: center;
+  color: lightgray;
+}
